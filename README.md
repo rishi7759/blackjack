@@ -19,6 +19,8 @@ This project was built using HTML for the structure of the game, CSS for styling
 
 To run this project locally, clone the repository from GitHub and open the index.html file in any modern web browser. The game will start running immediately without any additional setup.
 
+play this game and feel free to give feedback . 
+
 📚 What I Learned
 
 Through this project, I learned how to manipulate the DOM using JavaScript, implement basic game logic using functions and conditional statements, and manage a project using Git and GitHub.
